@@ -48,7 +48,7 @@ const Hero = () => {
                     </div>
 
                     <div className="profile-photo-container">
-                        <img src="/img/about-img1.png" alt="Moataz Zaky Profile Photo" className="profile-photo" />
+                        <img src="\img\about-img1.png" alt="Moataz Zaky Profile Photo" className="profile-photo" />
                     </div>
 
                     <h2 className="operator-name">MOATAZ ZAKY</h2>
@@ -167,3 +167,4 @@ const SocialLink = ({ href, icon, tooltip, visible }) => {
 };
 
 export default Hero;
+
